@@ -13,6 +13,10 @@ This repository contains the code and resources for the Deep Learning project as
 **Report:**   A detailed report covering the problem, data preprocessing, model architecture, results, and future improvements is available.
 
 ## Group Members
+* IT21227622 - Samarasinghe G.C.S. [SE]
+* IT21388934 - Siriwardhana S.M.R.R. [SE]
+* IT21388934 - Thejan K.G.T. [SE]
+* IT21263194 - Gamage W.G.T. [SE]
 
 ## Technologies Used
 * Python
